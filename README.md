@@ -11,7 +11,7 @@ This will display the initial state and the solved sudoku on the screen.
 ## Sudoku info json file format
 
 The json file contains an array the initial values of the sudoku.
-Each item is and array of [zero based column, zero based row,sudoku value]. 
+Each item is and array of [zero based row, zero based comumn,sudoku value]. 
 
 For example :
 [
