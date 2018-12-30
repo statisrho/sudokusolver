@@ -16,10 +16,8 @@ Each item is and array of [zero based row, zero based comumn,sudoku value].
 For example :
 
 [
-
 	[0, 3, 6],  
 	  ..... 
-
 ]
 
 On first row from upper left (0) and 4th column (3) place value 6.
